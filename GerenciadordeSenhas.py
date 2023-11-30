@@ -4,6 +4,7 @@ import tkinter as tk
 from tkinter import ttk
 
 
+
 # CONEXÃO AO BANCO DE DADOS
 import sqlite3
 
